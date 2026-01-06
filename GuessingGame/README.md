@@ -50,3 +50,60 @@ Players can choose from three difficulty levels:
 
 ## Example Gameplay
 
+Welcome to the Guessing Game!
+GamePlay Options:
+Easy: Guess a number between 1 and 10 with 3 attempts
+Medium: Guess a number between 1 and 50 with 4 attempts
+Hard: Guess a number between 1 and 100 with 5 attempts
+
+Medium
+Please enter a number between 1 and 50
+25
+Your guess is too low. Please try again.
+You have 3 attempts left
+
+40
+Your guess is too high. Please try again.
+You have 2 attempts left
+
+33
+Congratulations! You guessed the correct number: 33
+
+Would you like to play again? (y/n)
+
+n
+Thank you for playing! Goodbye!
+
+
+---
+
+## Project Structure
+
+- `Program.cs` – Handles the main program flow and user input for difficulty selection.  
+- `Game.cs` – Contains static methods for each difficulty level, loops for attempts, and play-again logic.  
+- `Guess.cs` – Contains the `IsCorrect` method to check player guesses and provide feedback.  
+
+---
+
+## Concepts Practiced
+- Loops (`for` and `do-while`)  
+- Conditionals (`if-else`)  
+- Random number generation (`Random`)  
+- User input parsing (`int.Parse`)  
+- Modular class design and static methods  
+- Difficulty levels and attempt tracking  
+
+---
+
+## Stretch Ideas (Optional)
+- Add additional difficulty levels or custom ranges.  
+- Track and display player guess history.  
+- Add hints for the player after incorrect guesses.  
+- Implement a scoring system based on remaining attempts.  
+
+---
+
+## How to Run
+1. Clone the repository:  
+```bash
+git clone https://github.com/YourUsername/NumberGuessingGame.git
