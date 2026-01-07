@@ -50,4 +50,32 @@ These projects are designed to practice and improve skills in:
 ---
 
 ## 📂 Repository Structure
+CSharp-Practice/
+├── SmartCalculator/
+├── GuessingGame/
+├── PersonalFinanceTracker/
+├── BudgetTrackerV2/ (planned)
+├── ToDoListManager/ (planned)
+├── InventoryManagement/ (planned)
+├── SimpleBankingSystem/ (planned)
+└── RecipeManager/ (planned)
+
+
+Each folder contains a single project with its own code and README detailing its functionality and concepts practiced.
+
+---
+
+## ⚡ Notes
+- This repository is primarily for **learning and experimentation**.  
+- Completed projects may have **known issues or areas for improvement**, which are noted in their individual project READMEs.  
+- Future projects will explore **object-oriented programming, file handling, and more advanced C# features**.
+
+---
+
+## 📈 Goals
+- Build a diverse portfolio of C# console applications  
+- Track learning progress over time  
+- Gradually move from basic programs to more complex, object-oriented designs  
+- Gain confidence in solving programming problems with C#
+
 
