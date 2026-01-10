@@ -15,12 +15,12 @@ The repository is designed as a **personal practice space**, allowing me to expl
 | **Smart Calculator** | Menu-driven calculator that supports addition, subtraction, multiplication, and division. | Methods, switch statements, loops, input validation |
 | **Guessing Game** | Number guessing game where the user tries to guess a randomly generated number. | Loops, conditionals, random numbers, input validation |
 | **Personal Finance Tracker** | Tracks income and expenses using parallel lists. Users can add, remove, view transactions, and see total balance. | Lists, index-based logic, loops, menu systems, input handling |
+| **Budget Tracker V2** | Enhanced version of the Personal Finance Tracker using **classes** to represent transactions, improving code structure and maintainability. Users can add, remove, view transactions, and see total balance with better data handling. | Classes, object-oriented design, Lists, methods, input validation, loops |
 
 ---
 
 ## 🚀 Upcoming / Planned Projects
-
-- **Budget Tracker v2** – Improve Personal Finance Tracker using classes and persistent storage  
+ 
 - **To-Do List Manager** – Track tasks, mark them complete, and categorize them  
 - **Inventory Management System** – Manage items, stock counts, and basic reporting  
 - **Simple Banking System** – Deposit, withdraw, and transfer funds using object-oriented design  
