@@ -51,13 +51,21 @@ These projects are designed to practice and improve skills in:
 
 ## 📂 Repository Structure
 CSharp-Practice/
+
 ├── SmartCalculator/
+
 ├── GuessingGame/
+
 ├── PersonalFinanceTracker/
-├── BudgetTrackerV2/ (planned)
-├── ToDoListManager/ (planned)
+
+├── BudgetTrackerV2/ 
+
+├── ToDoListManager/
+
 ├── InventoryManagement/ (planned)
+
 ├── SimpleBankingSystem/ (planned)
+
 └── RecipeManager/ (planned)
 
 
