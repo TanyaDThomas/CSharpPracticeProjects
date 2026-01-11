@@ -15,17 +15,17 @@ The repository is designed as a **personal practice space**, allowing me to expl
 | **Smart Calculator** | Menu-driven calculator that supports addition, subtraction, multiplication, and division. | Methods, switch statements, loops, input validation |
 | **Guessing Game** | Number guessing game where the user tries to guess a randomly generated number. | Loops, conditionals, random numbers, input validation |
 | **Personal Finance Tracker** | Tracks income and expenses using parallel lists. Users can add, remove, view transactions, and see total balance. | Lists, index-based logic, loops, menu systems, input handling |
-| **Budget Tracker V2** | Enhanced version of the Personal Finance Tracker using **classes** to represent transactions, improving code structure and maintainability. Users can add, remove, view transactions, and see total balance with better data handling. | Classes, object-oriented design, Lists, methods, input validation, loops |
+| **Budget Tracker V2** | Improved budget tracker that uses classes to model transactions, resulting in cleaner and more maintainable code. | Classes, constructors, encapsulation, lists of objects, input validation |
+| **To-Do List Manager** | Console-based task manager that allows users to add, complete, view, and delete tasks while demonstrating object state changes. | Object state, boolean logic, mutating objects, lists of objects, menu systems |
 
 ---
 
 ## 🚀 Upcoming / Planned Projects
- 
-- **To-Do List Manager** – Track tasks, mark them complete, and categorize them  
+
 - **Inventory Management System** – Manage items, stock counts, and basic reporting  
 - **Simple Banking System** – Deposit, withdraw, and transfer funds using object-oriented design  
 - **Console-Based Recipe Manager** – Add, remove, and view recipes and ingredients  
-- And more projects to continue practicing advanced C# concepts  
+- And more projects to continue practicing advanced C# concepts
 
 ---
 
