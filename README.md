@@ -8,6 +8,7 @@ The repository is designed as a **personal practice space**, allowing me to expl
 
 ---
 
+
 ## ✅ Completed Projects
 
 | Project Name | Description | Key Concepts Practiced |
@@ -15,8 +16,12 @@ The repository is designed as a **personal practice space**, allowing me to expl
 | **Smart Calculator** | Menu-driven calculator that supports addition, subtraction, multiplication, and division. | Methods, switch statements, loops, input validation |
 | **Guessing Game** | Number guessing game where the user tries to guess a randomly generated number. | Loops, conditionals, random numbers, input validation |
 | **Personal Finance Tracker** | Tracks income and expenses using parallel lists. Users can add, remove, view transactions, and see total balance. | Lists, index-based logic, loops, menu systems, input handling |
-| **Budget Tracker V2** | Improved budget tracker that uses classes to model transactions, resulting in cleaner and more maintainable code. | Classes, constructors, encapsulation, lists of objects, input validation |
+| **Budget Tracker V2** | Enhanced budget tracker using classes to model transactions, providing cleaner and more maintainable code. Users can add, remove, view transactions, and see total balance. | Classes, constructors, encapsulation, lists of objects, input validation |
 | **To-Do List Manager** | Console-based task manager that allows users to add, complete, view, and delete tasks while demonstrating object state changes. | Object state, boolean logic, mutating objects, lists of objects, menu systems |
+| **Inventory Management System** | Manage products with categories, quantities, and low-stock warnings. Users can add, update, remove, and view items. | Business rules, validation logic, enums, lists, real-world modeling |
+| **Simple Banking System** | Simulates banking operations including account creation, deposits, withdrawals, transfers, and balance tracking using multiple interacting objects. | Multiple classes, object interaction, separation of responsibility, methods, input validation |
+| **Console-Based Recipe Manager** | Manage recipes in memory by adding, viewing, deleting, and searching by ingredient. Demonstrates lists inside classes and a service/manager pattern. | Lists inside classes, manager/service pattern, console input handling, real-world data modeling |
+
 
 ---
 
@@ -62,11 +67,11 @@ CSharp-Practice/
 
 ├── ToDoListManager/
 
-├── InventoryManagement/ (planned)
+├── InventoryManagement/ 
 
-├── SimpleBankingSystem/ (planned)
+├── SimpleBankingSystem/
 
-└── RecipeManager/ (planned)
+└── RecipeManager/ 
 
 
 Each folder contains a single project with its own code and README detailing its functionality and concepts practiced.
