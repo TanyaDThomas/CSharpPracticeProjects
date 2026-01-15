@@ -21,6 +21,8 @@ The repository is designed as a **personal practice space**, allowing me to expl
 | **Inventory Management System** | Manage products with categories, quantities, and low-stock warnings. Users can add, update, remove, and view items. | Business rules, validation logic, enums, lists, real-world modeling |
 | **Simple Banking System** | Simulates banking operations including account creation, deposits, withdrawals, transfers, and balance tracking using multiple interacting objects. | Multiple classes, object interaction, separation of responsibility, methods, input validation |
 | **Console-Based Recipe Manager** | Manage recipes in memory by adding, viewing, deleting, and searching by ingredient. Demonstrates lists inside classes and a service/manager pattern. | Lists inside classes, manager/service pattern, console input handling, real-world data modeling |
+| **Contact Management System** | Console-based application to add, remove, list, and serialize contacts using JSON for in-memory persistence. | Classes, lists, serialization (System.Text.Json), file/data modeling, input validation, separation of concerns |
+
 
 
 ---
